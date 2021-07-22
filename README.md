@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @samuelmaina
-- 👀 I’m interested in maths
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on github
+- 👀 I’m interested in maths, computer science and software engineering
 - 📫 How to reach me samuelmayna@gmail.com
 
 <!---
