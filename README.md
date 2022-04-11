@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @samuelmaina
+- I love writing clean code and learning from other sources and people
 - 👀 I’m interested in maths, computer science and software engineering
 - 📫 How to reach me samuelmayna@gmail.com
 
