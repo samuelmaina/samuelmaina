@@ -18,7 +18,7 @@
 
     💻 About Me :
 
-- 👋 Hi, I’m @samuelmaina
+- 👋 Hi, I’m Samuel Maina. Currently At Moi University
 - I love writing clean code and learning from other people and sources
 - 👀 I’m interested in maths, computer science and software engineering
 - 📫 How to reach me samuelmayna@gmail.com
