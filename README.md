@@ -2,7 +2,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a Computer Science student currently immersed in the world of Computer Science, Software development and Mathematics. I love adhering to clean code practices and practices.I love learning from other people and sources.Hoping to change the world 🦸‍.
+I am a Computer Science student currently immersed in the world of Computer Science, Software development and Mathematics. I love adhering to clean code practices and principles.I love learning from other people and sources.Hoping to change the world 🦸‍.
 <center>
 <table>
   <tr>
