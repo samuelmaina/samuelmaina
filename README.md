@@ -4,11 +4,6 @@
 
 I am a Computer Science student currently immersed in the world of Computer Science, Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
 <center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaina&hide=html,css,ejs,php&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelmaina&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
-</table>
 </center>
 
 #### Profile Visits 
