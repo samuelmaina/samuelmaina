@@ -2,31 +2,55 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a Computer Science student currently immersed in the world of Computer Science, Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
-<center>
-</center>
+I am a Computer Science student currently immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samuelmaina.)
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12379758/samuelmayna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samuelmayna) 
 
-<h2>GitHub Stats</h2>
-<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=samuelmaina&hide=contribs&count_private=false&show_icons=true&theme=cobalt">
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=samuelmaina">
-</a><br>
+# 💻Tech Stack
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3><br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/samuel-maina-339a431a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Samuel%20Maina-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:samuelmayna@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Samuel Maina %40gmail.com-blue?style=flat-square&logo=gmail"></a>
- 
-</p>
+## Frameworks and Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![Jest JS](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+![JUnit](https://img.shields.io/badge/JUnit-black?style=plastic&logo=junit&logoColor=%23F7DF1E)
 
-<!---
-samuelmaina/samuelmaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Databases
+![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+
+## Platforms
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+
+
+# 📊GitHub Stats :
+![Overall Starts](https://github-readme-stats.vercel.app/api?username=samuelmaina&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=samuelmaina&theme=react&hide_border=false)<br/>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samuelmaina&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+
 
