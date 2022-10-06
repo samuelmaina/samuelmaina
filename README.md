@@ -21,6 +21,7 @@ I am a Computer Science student currently immersed in the world of Software deve
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## Frameworks and Libraries
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 ![Jest JS](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
