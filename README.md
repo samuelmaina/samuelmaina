@@ -2,11 +2,11 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a Computer Science student currently immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
+I am a Software Engineer immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12379758/samuelmayna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samuelmayna) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) 
 
 # 💻Tech Stack
 ## Languages
