@@ -2,21 +2,22 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a Software Engineer immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
-
+I am a Software Engineer immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍. I hoping to become a data scientist.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) 
 
 # 💻Tech Stack
 ## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 )
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 )
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -50,6 +51,7 @@ I am a Software Engineer immersed in the world of Software development and Mathe
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelmaina&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 
