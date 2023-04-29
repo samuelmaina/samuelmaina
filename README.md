@@ -2,7 +2,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a Software Engineer immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍. I hoping to become a data scientist.
+I am a Software Engineer immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) 
