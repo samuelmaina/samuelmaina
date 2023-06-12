@@ -45,9 +45,9 @@ I am a Software Engineer immersed in the world of Software development and Mathe
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 
-# 📊GitHub Stats :
+<!-- # 📊GitHub Stats :
 ![Overall Starts](https://github-readme-stats.vercel.app/api?username=samuelmaina&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=samuelmaina&theme=react&hide_border=false)<br/>
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=samuelmaina&theme=react&hide_border=false)<br/> -->
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelmaina&theme=nord&no-frame=true&no-bg=true&margin-w=4)
