@@ -1,8 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am Samuel Maina <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px"> <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=samuelmaina" alt="visitor badge"/></p>
 
 
-<h3> &nbsp;👩🏾‍💻 About Me </h3>I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
-
+<h3> &nbsp;👩🏾‍💻 About Me </h3>
+Samuel Maina is a results-driven Software Engineer with 3.5+ years of experience building scalable, high-performance applications in finance, IoT, Machine Learning, and blockchain. Expertise in Spring Boot, Node.js, React.js and cloud technologies (AWS, Azure, Docker) with a strong background in microservices, distributed systems, and real-time data processing.
+Passionate about clean architecture and following good software principles such as automated testing and solving complex problems using simple solutions. Committed to delivering secure, user-centric solutions that drive business growth.
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) 
 
